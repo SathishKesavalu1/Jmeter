@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="30036" it="0" lt="0" ct="30035" ts="1519624621336" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: www.youtube.com: nodename nor servname provided, or not known" tn="Thread Group 1-1" dt="text" by="2183" sby="0" ng="1" na="1"/>
+
+</testResults>
